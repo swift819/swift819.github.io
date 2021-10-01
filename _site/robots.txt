@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://swift819.github.io/sitemap.xml
